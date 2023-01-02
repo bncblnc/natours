@@ -13,3 +13,6 @@ navFeatures.addEventListener("click", closeNav);
 navTours.addEventListener("click", closeNav);
 navStories.addEventListener("click", closeNav);
 navBook.addEventListener("click", closeNav);
+// window.addEventListener("click", function (e) {
+//   console.log(e.target);
+// });
