@@ -1,4 +1,4 @@
-<div align="center"><img  alt="logo" width="300"  src="img/logo-green-2x.png"></div>
+<div align="center"><img  alt="logo" height="100"  src="img/logo-green-2x.png"></div>
 <br>
 <div>
     <p> Projeto de uma landing page responsiva para uma empresa de viagens. </p>
